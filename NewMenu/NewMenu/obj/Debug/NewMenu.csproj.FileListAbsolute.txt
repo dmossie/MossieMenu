@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\bin\Debug\NewMenu.exe.config
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\bin\Debug\NewMenu.exe
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\bin\Debug\NewMenu.pdb
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\obj\Debug\NewMenu.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\obj\Debug\NewMenu.NewMenu.resources
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\obj\Debug\NewMenu.Properties.Resources.resources
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\obj\Debug\NewMenu.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\obj\Debug\NewMenu.exe
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\NewMenu\NewMenu\obj\Debug\NewMenu.pdb

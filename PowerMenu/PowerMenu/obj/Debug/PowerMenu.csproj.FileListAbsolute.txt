@@ -1,0 +1,9 @@
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\bin\Debug\PowerMenu.exe.config
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\bin\Debug\PowerMenu.exe
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\bin\Debug\PowerMenu.pdb
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\obj\Debug\PowerMenu.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\obj\Debug\PowerMenu.Properties.Resources.resources
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\obj\Debug\PowerMenu.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\obj\Debug\PowerMenu.exe
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\obj\Debug\PowerMenu.pdb
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\PowerMenu\PowerMenu\obj\Debug\PowerMenu.Power.resources

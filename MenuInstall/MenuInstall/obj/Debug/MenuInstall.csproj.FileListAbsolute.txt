@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\MenuInstall\MenuInstall\bin\Debug\MenuInstall.exe.config
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\MenuInstall\MenuInstall\bin\Debug\MenuInstall.exe
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\MenuInstall\MenuInstall\bin\Debug\MenuInstall.pdb
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\MenuInstall\MenuInstall\obj\Debug\MenuInstall.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\MenuInstall\MenuInstall\obj\Debug\MenuInstall.exe
+C:\Users\Daniel\Documents\Projects\Visual Studio 2012\Projects\MenuInstall\MenuInstall\obj\Debug\MenuInstall.pdb
